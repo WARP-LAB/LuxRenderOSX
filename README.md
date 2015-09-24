@@ -140,9 +140,9 @@ _Hint: If you want to deploy LuxRender complete "dependency-less", use macdeploy
 
 * Go into folder that contains source of _macos_ (OS X build dependencies), _LuxRays_ and _LuxRender_ `cd src-lux`
 * Then clone the repo `hg clone https://bitbucket.org/luxrender/luxmark`
-* Go to the `luxmax` directory. This is where you cloned the LuxMark repository. `cd luxmark`
+* Go to the `luxmark` directory. This is where you cloned the LuxMark repository. `cd luxmark`
 * Create a build subdirectory and go into it `mkdir build && cd build`
-* * Detect where Qt is installed `which qmake`
+* Detect where Qt is installed `which qmake`
 * Execute CMake to generate Xcode project, supplying path to qmake `cmake -G Xcode -DQT_QMAKE_EXECUTABLE=/usr/bin/qmake ..`
 * Build LuxMark `cmake --build . --config Release --target ALL_BUILD`
 * Launch LuxMark `open bin/Release/LuxMark.app`
