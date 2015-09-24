@@ -65,7 +65,7 @@ As of writing this following SDK and `cl.hpp` versions were used:
 
 #Compile LuxRays
 
-_Note: You can skip this point and go on to compiling LuxRender as LuxRays headers and lib are now in macos dependency directory. Compiling LuxRays separately is only necessary if you would like the latest version of the library (such as having the latest smallluxgpu)_
+_Note: Compiling LuxRays separately is necessary if you would like the latest version of the library (such as having the latest smallluxgpu) which is probably the case why you are here and reading this how-to. However, you can skip this point and go on to compiling LuxRender as LuxRays headers and lib are now in macos dependency directory. _
 
 ###Automatic build
 
