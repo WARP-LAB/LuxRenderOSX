@@ -5,7 +5,7 @@ Building LuxRender on OS X
 #Prerequisites
 
 
-* OS X El Capitan has new feature called [System Integrity Protection](os x system integrity protection) aka "rootless". Either it needs to be turned off, as Qt installation will fail (we use older Qts, but even the newest are not SIP ready and puts itself into `/usr/bin`), or the installations will have to be altered. As we are using package installations, it isn't _that easy_, therefore we will disable SIP. See [this](https://forums.developer.apple.com/thread/3981) on how-to.
+* OS X El Capitan has new feature called [System Integrity Protection](https://en.wikipedia.org/wiki/System_Integrity_Protection) aka "rootless". Either it needs to be turned off, as Qt installation will fail (we use older Qts, but even the newest are not SIP ready and puts itself into `/usr/bin`), or the installations will have to be altered. As we are using package installations, it isn't _that easy_, therefore we will disable SIP. See [this](https://forums.developer.apple.com/thread/3981) on how-to.
 * Install _[Xcode](https://developer.apple.com/xcode/download/)_ (you can use App Store version or one found in [developer downloads](https://developer.apple.com/downloads/)) Open Xcode for OS X to verify it and auto install components on first run. Quit it.
 * Install _[Command Line Tools for XCode](https://developer.apple.com/downloads/)_ for command line action
 * Install _[Mercurial](https://mercurial.selenic.com/downloads)_ for checking out the source code
