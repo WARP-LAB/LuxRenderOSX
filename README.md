@@ -169,19 +169,19 @@ Dependencies as of 25.09.2015.
 
 [Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
 
-| lib            | latest              | lux                    | blender OS X        |
-|----------------|---------------------|------------------------|---------------------|
-| boost          | 1.59.0              | 1.56                   | 1.51.0              |
-| freeimage      | 3.17.0              | 3.16.0                 | DNA                 |
-| glew           | 1.13.0              | 1.5.5                  | 1.5.5               |
-| fftw3          | ?                   | ?                      | ?                   |
-| OpenImageIO    | 1.5                 | 1.4.11                 | 1.4.11              |
-| OpenEXR        | 2.2.0               | 2.2.0                  | 2.2.0               |
-| LibPNG         | 1.6.18              | 1.6.16                 | 1.2.29              |
-| LibTiff        | 4.0.6 20150912      | 4.0.3 20120922         | 4.0.3 20120922      |
-| LibJpeg        | JPEG_LIB_VERSION 62 | JPEG_LIB_VERSION 90??? | JPEG_LIB_VERSION 62 |
-| embree         | 2.7.0               | 2.4.0                  | DNA                 |
-| python         | python3.5.0         | python3.4m             | python3.4m          |
-| X11            | 11.0                | 11.0                   | DNA                 |
-| cl.hpp 1.2 API | 1.2.7               | 1.2.6                  | DNA                 |
+| lib            | latest              | lux                 | blender OS X        |
+|----------------|---------------------|---------------------|---------------------|
+| boost          | 1.59.0              | 1.56                | 1.51.0              |
+| freeimage      | 3.17.0              | 3.16.0              | DNA                 |
+| glew           | 1.13.0              | 1.5.5               | 1.5.5               |
+| fftw3          | ?                   | ?                   | ?                   |
+| OpenImageIO    | 1.5                 | 1.4.11              | 1.4.11              |
+| OpenEXR        | 2.2.0               | 2.2.0               | 2.2.0               |
+| LibPNG         | 1.6.18              | 1.6.16              | 1.2.29              |
+| LibTiff        | 4.0.6 20150912      | 4.0.3 20120922      | 4.0.3 20120922      |
+| LibJpeg        | JPEG_LIB_VERSION 90 | JPEG_LIB_VERSION 90 | JPEG_LIB_VERSION 62 |
+| embree         | 2.7.0               | 2.4.0               | DNA                 |
+| python         | python3.5.0         | python3.4m          | python3.4m          |
+| X11            | 11.0                | 11.0                | DNA                 |
+| cl.hpp 1.2 API | 1.2.7               | 1.2.6               | DNA                 |
 
